@@ -23,7 +23,7 @@ experiments with commands
 >
 > v2.0 (5) Stronger
 >
-> v2.1 (6)
+> v2.1 (6) More Stronger
 >
 > ...
 >
