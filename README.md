@@ -18,7 +18,7 @@ experiments with commands
 >>
 >> v1.1.1 **release v1.1.1** fix (7) {git log --online} {git checkout ####} {git branch v1.1.1} {git log --oneline --all} extra details
 >>
->> v1.1.1 **release** fix (9)
+>> v1.1.2 **release** fix (9) {git log --oneline --all --graph} last extra
 >>
 >
 > v2.0 (5)
