@@ -16,7 +16,7 @@ experiments with commands
 > v1.1 **release** (4) Documented, tested, verified
 >
 >>
->> v1.1.1 **release** fix (7)
+>> v1.1.1 **release v1.1.1** fix (7) {git log --online} {git checkout ####} {git branch v1.1.1} {git log --oneline --all} extra details
 >>
 >> v1.1.1 **release** fix (9)
 >>
