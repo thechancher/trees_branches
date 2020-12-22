@@ -9,7 +9,7 @@ experiments with commands
 
 > v0.1 (1) initial version
 >
-> v0.2 (2)
+> v0.2 (2) more modifications
 >
 > v1.0 (3)
 >
