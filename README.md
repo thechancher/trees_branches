@@ -13,7 +13,7 @@ experiments with commands
 >
 > v1.0 (3) final version
 >
-> v1.1 **release** (4)
+> v1.1 **release** (4) Documented, tested, verified
 >
 >>
 >> v1.1.1 **release** fix (7)
