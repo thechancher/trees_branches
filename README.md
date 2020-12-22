@@ -23,11 +23,11 @@ experiments with commands
 >
 > v2.0 (5) Stronger
 >
-> v2.1 (6) More Stronger
+> v2.1 (6) More Stronger {git checkout main}
 >
 > ...
 >
-> v2.2 (8)
+> v2.2 (8) More Stranger but without old details
 >
 >...
 >
