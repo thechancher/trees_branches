@@ -11,7 +11,7 @@ experiments with commands
 >
 > v0.2 (2) more modifications
 >
-> v1.0 (3)
+> v1.0 (3) final version
 >
 > v1.1 **release** (4)
 >
