@@ -7,7 +7,7 @@
 # trees_branches
 experiments with commands
 
-> v0.1 (1)
+> v0.1 (1) initial version
 >
 > v0.2 (2)
 >
