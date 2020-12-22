@@ -21,7 +21,7 @@ experiments with commands
 >> v1.1.1 **release** fix (9)
 >>
 >
-> v2.0 (5)
+> v2.0 (5) Stronger
 >
 > v2.1 (6)
 >
