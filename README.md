@@ -1,5 +1,11 @@
+# Markdown
+
+[cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[emojis](https://gist.github.com/rxaviers/7360908)
+
 # trees_branches
-experiments with comands
+experiments with commands
 
 > v0.1 (1)
 >
