@@ -34,3 +34,6 @@ experiments with commands
 > v2.3 (10) Merge
 > 
 > v2.4 (11) stash {git stash} {git stash list} {git checkout ####} {git checkout main} {git stash pop}
+> 
+> v2.5 (11) {git tag v1.1 ####} {git tag v1.1 -d}
+
