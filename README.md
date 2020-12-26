@@ -38,4 +38,3 @@ experiments with commands
 > v2.5 (12) {git tag v1.1 ####} {git tag v1.1 -d}
 > 
 > v2.5.1 (13) {git revert ####} {git revert --continue}
-
