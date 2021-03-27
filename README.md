@@ -60,3 +60,16 @@ experiments with commands
 > git log --oneline --all
 > 
 > git status
+
+# undo changes
+> git add .
+> 
+> git reset .\xxx.yyy
+> 
+> git reset .
+> 
+> git add .
+> 
+> git commit -m "..." -m "..."
+> 
+> git push
