@@ -38,3 +38,25 @@ experiments with commands
 > v2.5 (12) {git tag v1.1 ####} {git tag v1.1 -d}
 > 
 > v2.5.1 (13) {git revert ####} {git revert --continue}
+> 
+
+# history
+> git log --oneline --all --graph
+> 
+> git stash
+>  
+> git log --oneline --all --graph
+> 
+> git checkout ####
+>
+> git restore .
+> 
+> git status
+> 
+> git checkout main
+> 
+> git stash pop  
+> 
+> git log --oneline --all
+> 
+> git status
