@@ -73,3 +73,21 @@ experiments with commands
 > git commit -m "..." -m "..."
 > 
 > git push
+
+# upload
+> git init
+> 
+> *git add .
+> 
+> git remote add origin xxx.com
+> 
+> git pull xxx.com master
+> 
+> *fix
+> *commit
+> 
+> git push --set-upstream origin master
+> 
+> ...
+> 
+> git push
