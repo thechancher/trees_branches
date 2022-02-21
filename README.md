@@ -74,6 +74,11 @@ experiments with commands
 > 
 > git push
 
+# reset changes
+> git checkout -- dir/file.dat
+> 
+> git clean -ffdx
+
 # upload
 > git init
 > 
@@ -91,3 +96,25 @@ experiments with commands
 > ...
 > 
 > git push
+
+# merge
+> git pull -X theirs
+> git pull -s ours
+> git checkout --theirs file.xxx
+> git checkout --ours file.xxx
+
+# tools
+> git reflog
+> git commit --amend -m "rename commit"
+> git push origin master -f
+>
+> git tag -a v1.0 -m "version 1.0"
+> git push origin --tags
+> 
+
+# change organization
+> git remote remove origin
+> git remote add origin xxx.com
+
+# reset
+> 
