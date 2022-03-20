@@ -102,6 +102,11 @@ experiments with commands
 > git pull -s ours
 > git checkout --theirs file.xxx
 > git checkout --ours file.xxx
+>
+> git merge --abort
+> git rebase --abort
+> 
+> git mergetool
 
 # tools
 > git reflog
@@ -116,5 +121,12 @@ experiments with commands
 > git remote remove origin
 > git remote add origin xxx.com
 
-# reset
+# rename
+> git mv old new
 > 
+
+# Stashing 
+> git stash
+> git stash -u
+>
+> git stash pop
